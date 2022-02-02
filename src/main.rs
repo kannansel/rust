@@ -1,3 +1,5 @@
+//Code to remove duplicates
+
 fn print (a : &mut [i32], len:usize) {
 
     let mut i = 0;
